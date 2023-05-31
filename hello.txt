@@ -19,3 +19,4 @@ asdfasdfasdfasdfasdf
 1234
 hot-fix
 hot-fix2
+master-fixed
