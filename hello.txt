@@ -20,3 +20,4 @@ asdfasdfasdfasdfasdf
 hot-fix
 hot-fix2
 master-fixed
+hot-fixed
